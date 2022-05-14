@@ -11,3 +11,6 @@ Some softwares:
 - MediBang Paint
 - PiskelArt
 - Asesprite
+
+- Premiere
+- Kdenlive
